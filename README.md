@@ -1,5 +1,5 @@
 # Pacial-2
-NOMBRE: RAFAEL AYLLON ZAPATA
+
 # Sistema de Gestión de Empleados
 
 ## 1. Información general
@@ -8,7 +8,7 @@ Proyecto de examen parcial (Parcial 2) desarrollado en Java. Contiene la impleme
 
 ## 2. Autoría y versión
 
-- Autor: [Tu Nombre]
+- Autor: Rafael Ayllon Zapata
 - Fecha: 16 de marzo de 2026
 - Versión: 1.0.0
 
